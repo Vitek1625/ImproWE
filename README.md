@@ -31,3 +31,11 @@ View modes:
 - Weekly
 - Monthly
 - Yearly (Simplified)
+
+# Technology stack
+Angual Frontend
+Java SpringBoot Backend
+PostgreSQL Database
+
+Apache kafka for data logging and load balancing
+Azure Cloud for computing
